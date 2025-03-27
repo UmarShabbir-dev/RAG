@@ -5,7 +5,7 @@ python-multipart
 python-dotenv
 openai
 langchain
-pinecone-client
+pinecone
 langchain-community
 PyPDF2
 python-docx
