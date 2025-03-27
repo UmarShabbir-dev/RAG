@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn
+streamlit
+python-multipart
+python-dotenv
+openai
+langchain
+pinecone-client
+langchain-community
+PyPDF2
+python-docx
+tqdm
+unstructured
